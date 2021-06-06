@@ -111,7 +111,7 @@ strings:
       help: |-
         Formatting
 
-        Alita supports a large number of formatting options to make your messages more expressive. Take a look by clicking the buttons below!
+        AI Manager Bot🤖 supports a large number of formatting options to make your messages more expressive. Take a look by clicking the buttons below!
     fun:
       main: "Fun"
       help: |-
@@ -132,7 +132,7 @@ strings:
 
         Just type /lang and use inline keyboard to choose a language for yourself or your group.
 
-        You can help us bring bot to more languages by helping on [Crowdin](https://crowdin.com/project/alita_robot)
+        You can help us bring bot to more languages by helping.
     locks:
       main: "Locks"
       help: |-
@@ -366,7 +366,7 @@ strings:
       %%%
       how are you</code>
       This will randomly choose between sending the first message, "hello", or the second message, "how are you".
-      Use this to make Alita feel a bit more customised! (only works in filters/notes)
+      Use this to make Ai Manager Bot 🤖 feel a bit more customised! (only works in filters/notes)
 
       Example welcome message::
       - Every time a new user joins, they'll be presented with one of the three messages shown here.
@@ -470,18 +470,13 @@ strings:
     uptime: "<b>Uptime:</b> <code>{uptime}</code>"
   general:
     donate_owner: |-
-      Hey Thanks for your thought of donating me!
-      When you donate, all the fund goes towards my development which makes on fast and responsive.
-      Your donation might also me get me a new feature or two, which I wasn't able to get due to server limitations.
-
-      All the fund would be put into my services such as database, storage and hosting!
-
-      You can donate by contacting my owner here: @DivideProjectsBot
+      Thanks For Considering 🔥
+      Currently We Are Not Accepting Any Type Of Donation. Just Drop Thanks In @CyberBoyAyushBot ❤️
     back_btn: Back
     check_help: "Please check help on how to use this this command."
     close_btn: Close
     commands_available: |-
-      Hey There! My name is Alita.
+      Hey There! My name is AI Manager Bot 🤖.
       I'm here to help you manage your groups!
       Commands available:
        × /start: Start the bot
@@ -502,7 +497,7 @@ strings:
     changelang: |-
       Here you can change language for the bot.
 
-      You can help us bring bot to more languages by helping on [Crowdin](https://crowdin.com/project/alita_robot)
+      You can help us bring bot to more languages by helping.
     correct_usage: |-
       <b>Correct Usage:</b>
       /lang or /setlang language-code
@@ -571,7 +566,7 @@ strings:
     commands_btn: Commands & Help
     group: "I'm alive :3"
     info_page: |-
-      • @Alita_Robot
+      • @AIManagerBot
 
       <b>Version:</b> <i>{version}</i>
 
@@ -581,13 +576,13 @@ strings:
     language_btn: Language
     pm_for_help: "Contact me in PM to get the list of possible commands."
     private: |-
-      Hey there! My name is Alita ✨.
-      I'm here to help you manage your groups!
+      Hello My Name Is AI Manager Bot🤖.
+     I am Advanced AI Powered Group Manager Bot!
       Hit /help to find out more about how to use me to my full potential.
 
-      Join my [News Channel](http://t.me/AlitaRobotUpdates) to get information on all the latest updates.
+     This Bot Is Part of @AyushBots🔥❤️
     public_help: "Press the button below to get help for <i>{help_option}</i>"
-    source_code: "Source Code"
+    source_code: "Other Useful Bots❤️"
   utils:
     gif_id:
       reply_gif: "Please reply to a gif to get its ID."
