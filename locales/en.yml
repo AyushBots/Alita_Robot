@@ -570,7 +570,7 @@ strings:
 
       <b>Version:</b> <i>{version}</i>
 
-      <b>Developers:</b> [Divkix](https://github.com/Divkix)
+      <b>Developers:</b> [CyberBoyAyush](https://t.me/CyberBoyAyush)
       <b>Owner:</b> [{Owner}](tg://user?id={ID})
     support_group: Support
     language_btn: Language
@@ -580,7 +580,7 @@ strings:
       I am Advanced AI Powered Group Manager Bot!
       Hit /help to find out more about how to use me to my full potential.
 
-     This Bot Is Part of @AyushBots🔥❤️
+      This Bot Is Part of @AyushBots🔥❤️
     public_help: "Press the button below to get help for <i>{help_option}</i>"
     source_code: "Other Useful Bots❤️"
   utils:
