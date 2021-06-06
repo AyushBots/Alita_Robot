@@ -72,7 +72,7 @@ async def gen_start_kb(q: Message or CallbackQuery):
                 ),
                 InlineKeyboardButton(
                     f"{(tlang(q, 'start.support_group'))} 👥",
-                    url=f"https://t.me/{SUPPORT_GROUP}",
+                    url=f"https://t.me/CyberBoyAyushBot",
                 ),
             ],
             [
@@ -87,8 +87,8 @@ async def gen_start_kb(q: Message or CallbackQuery):
                     callback_data="chlang",
                 ),
                 InlineKeyboardButton(
-                    f"🗃️ {(tlang(q, 'start.source_code'))}",
-                    url="https://github.com/Divkix/Alita_Robot",
+                    f"🎈 {(tlang(q, 'start.source_code'))}",
+                    url="https://t.me/AyushBots",
                 ),
             ],
         ],
