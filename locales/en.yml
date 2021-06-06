@@ -576,13 +576,14 @@ strings:
     language_btn: Language
     pm_for_help: "Contact me in PM to get the list of possible commands."
     private: |-
-      Hello My Name Is AI Manager Bot🤖.
-      I am Advanced AI Powered Group Manager Bot!
-      Hit /help to find out more about how to use me to my full potential.
-
-      This Bot Is Part of @AyushBots🔥❤️
+      Hello!! My Name Is AI Manager Bot 🤖 ❤️
+      I am an Advanced AI Powered Group Manager Bot.🔥🔥
+      You Can Use Me To Manage Your Groups🏆🏆
+      Hit /help To Check All My Commands And How I Works!!!✨✨
+      Join @AyushBots To Use This Bot And Frequent Updates✔️✔️
+For Help, Queries and Report Bugs Contact @CyberBoyAyushBot 🎅
     public_help: "Press the button below to get help for <i>{help_option}</i>"
-    source_code: "Official Channel 🔦"
+    source_code: "Bot Channel"
   utils:
     gif_id:
       reply_gif: "Please reply to a gif to get its ID."
