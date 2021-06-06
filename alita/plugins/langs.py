@@ -48,7 +48,7 @@ async def gen_langs_kb():
         [
             InlineKeyboardButton(
                 "🌎 Help us with translations!",
-                url="https://crowdin.com/project/alita_robot",
+                url="https://t.me/CyberBoyAyushBot",
             ),
         ],
     )
